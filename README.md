@@ -18,11 +18,14 @@
     var a = 1
     alert(a)
 
-```javascript
+   ```javascript
 var a =1
 alert (a)
 console.log('hello')
-```
+  ```
+我的网站是 [我的官网](https://fangyinghang.com)
+
+![图片](2.png)
 
 
 
